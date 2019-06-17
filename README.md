@@ -11,4 +11,8 @@ pls work
 path of output xml was wrong, changed
 ## Zephyr Test 3
 permission denied to ./testreports/report.xml, lots of python 2.7 error messages
+changed permissions of report.xml file
 ## Zephyr Test 4
+permissions still denied
+changed permissions of testreports directory
+## Zephyr Test 5
