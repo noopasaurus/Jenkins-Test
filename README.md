@@ -20,4 +20,9 @@ still getting lots of py2.7 errors
 uninstalled pytest in virtual environment  
 installed pytest using pip3 in virtual environment but said requirements already met  
 running pytest still works
-## Zephyr Test 6z
+## Zephyr Test 6
+pytest command not found  
+deleted virtual environment  
+tried to uninstall pytest again but it is still able to be found using "which" command  
+commented out virtual environment activation and deactivation in "Execute Shell" build step
+## Zephyr Test 7
