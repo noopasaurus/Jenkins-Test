@@ -6,4 +6,7 @@ pls work
 
 ## Integrating with Zephyr for Jira
  Added post build actions for testing + reading in xml and posting to zephyr for jira
+ error was that pytest was not installed in virtual environment
 ## Zephyr Test 2
+ path of output xml was wrong, changed
+## Zephyr Test 3
