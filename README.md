@@ -26,3 +26,7 @@ deleted virtual environment
 tried to uninstall pytest again but it is still able to be found using "which" command  
 commented out virtual environment activation and deactivation in "Execute Shell" build step
 ## Zephyr Test 7
+pytest command not found  
+installed pytest again even though it was already running  
+used sudo to install
+## Zephyr Test 8
