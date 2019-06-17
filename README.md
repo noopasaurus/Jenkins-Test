@@ -30,3 +30,6 @@ pytest command not found
 installed pytest again even though it was already running  
 used sudo to install
 ## Zephyr Test 8
+changed permissions of both testreports directory and report.xml file to 777
+ran pytest --junitxml=./testreports/report.xml and it worked after changing permissions
+## Zephyr Test 9
